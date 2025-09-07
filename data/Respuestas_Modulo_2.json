@@ -1,0 +1,27 @@
+{
+  "modulo": 2,
+  "archivo_evaluacion": "./Evaluacion_Modulo_2.md",
+  "fecha_generacion": "2025-08-31",
+  "preguntas": [
+    { "numero": 1, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 2/Contenido.md – Metodología de Trabajo → Proceso de Creación", "./Contenido/Creación de Presentaciones Efectivas – Desarrollo Detallado.pdf"] },
+    { "numero": 2, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 2/Videos/Explicacion estructura presentacion.mp4", "../Modulo 2/Contenido.md – Metodología/Proceso"] },
+    { "numero": 3, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 2/Contenido.md – Consejos/Buenas prácticas", "Criterios de evaluación"] },
+    { "numero": 4, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 2/Videos/Explicacion estructura presentacion.mp4", "../Modulo 2/Contenido.md – Metodología/Proceso"] },
+    { "numero": 5, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 2/Videos/Presentación 2 en Power Point.mp4", "../Modulo 2/Contenido/Comparativo.pdf"] },
+    { "numero": 6, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 2/Videos/Presentación 3 en Google Slides.mp4", "../Modulo 2/Contenido/Comparativo.pdf"] },
+    { "numero": 7, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 2/Videos/Presentación 4 en Canva (f).mp4", "../Modulo 2/Videos/Como hacer PRESENTACIONES GRABAR Canva - YouTube.mp4"] },
+    { "numero": 8, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 2/Videos/Presentación 5 en Genially.mp4", "../Modulo 2/Videos/Como usar Genially primeros pasos - YouTube.mp4", "../Modulo 2/Videos/TUTORIAL GENIALLY - Como usar Genially para hacer presentaciones.mp4"] },
+    { "numero": 9, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 2/Videos/Como hacer PRESENTACIONES GRABAR Canva - YouTube.mp4", "../Modulo 2/Contenido.md – Consejos/Accesibilidad"] },
+    { "numero": 10, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 2/Videos/Explicacion estructura presentacion.mp4", "../Modulo 2/Contenido.md – Metodología y Consejos"] },
+    { "numero": 11, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 2/Contenido/Comparativo.pdf"] },
+    { "numero": 12, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 2/Contenido.md – Objetivos/Metodología", "GD2"] },
+    { "numero": 13, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 2/Contenido/Texto para crear la presentación.docx"] },
+    { "numero": 14, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 2/Contenido.md – Metodología/Exportación", "Tutoriales de grabación"] },
+    { "numero": 15, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 2/Contenido.md – Consejos/Buenas prácticas", "Criterios de evaluación"] },
+    { "numero": 16, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 2/Contenido.md – Criterios de Evaluación", "GD2"] },
+    { "numero": 17, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 2/Contenido/Comparativo.pdf", "../Modulo 2/Contenido.md – Objetivos"] },
+    { "numero": 18, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 2/Contenido.md – Consejos/Accesibilidad"] },
+    { "numero": 19, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 2/Contenido.md – Objetivos/Metodología", "Desarrollo detallado"] },
+    { "numero": 20, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 2/Videos/Como hacer PRESENTACIONES GRABAR Canva - YouTube.mp4"] }
+  ]
+}

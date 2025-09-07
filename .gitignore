@@ -1,0 +1,43 @@
+# Dependencias (si se agrega npm)
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Builds / distribuciones
+dist/
+build/
+out/
+
+# Archivos temporales / logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.cache/
+.temp/
+tmp/
+
+# SO / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Cobertura / pruebas
+coverage/
+.nyc_output/
+
+# Entornos / credenciales
+.env
+.env.*
+!.env.example
+
+# Archivos generados
+*.bak
+*.tmp
+
+# Python server cache (si se usa http.server)
+__pycache__/
+*.pyc

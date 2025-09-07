@@ -1,0 +1,27 @@
+{
+  "modulo": 5,
+  "archivo_evaluacion": "./Evaluacion_Modulo_5.md",
+  "fecha_generacion": "2025-08-31",
+  "preguntas": [
+    { "numero": 1, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Ética y uso responsable de IA", "Derechos de autor e IA (video)"] },
+    { "numero": 2, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Derechos de autor, licencias y atribución"] },
+    { "numero": 3, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Accesibilidad", "Canva infografía mp4 + VTT"] },
+    { "numero": 4, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Herramientas: Canva"] },
+    { "numero": 5, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Revisión y atribución de IA"] },
+    { "numero": 6, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Herramientas: Fliki, avatares"] },
+    { "numero": 7, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Ética: sesgos, transparencia"] },
+    { "numero": 8, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Excelencia y servicio", "VALOR DEL SERVICIO - COMPETENCIAS DEL SER - YouTube.mp4"] },
+    { "numero": 9, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Objetivo, audiencia, tipo de contenido"] },
+    { "numero": 10, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Principios de comunicación visual"] },
+    { "numero": 11, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Derechos de autor; Licencias"] },
+    { "numero": 12, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Documentos de apoyo (p.ej., GD1/GD5)"] },
+    { "numero": 13, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Evaluación con usuarios"] },
+    { "numero": 14, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Exportación razonable para web"] },
+    { "numero": 15, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Documentación de prompts/flujo"] },
+    { "numero": 16, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Avatares: ventajas"] },
+    { "numero": 17, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Ética: consentimiento y derechos"] },
+    { "numero": 18, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Subtítulos/transcripción y contraste"] },
+    { "numero": 19, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 5/Contenido.md – Criterios de cierre: calidad y ética"] },
+    { "numero": 20, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 5/Videos/VALOR DEL SERVICIO - COMPETENCIAS DEL SER - YouTube.mp4", "Derechos de autor e IA (si existe)"] }
+  ]
+}

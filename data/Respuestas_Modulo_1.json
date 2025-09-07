@@ -1,0 +1,27 @@
+{
+	"modulo": 1,
+	"archivo_evaluacion": "./Evaluacion_Modulo_1.md",
+	"fecha_generacion": "2025-08-31",
+	"preguntas": [
+		{ "numero": 1, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 1/Contenido.md – Material de Lectura → Competencias Digitales", "./Contenido/Competencias digitales para docentes - por qué son tan importantes.pdf"] },
+		{ "numero": 2, "respuesta": "B", "peso": 5, "referencias": ["./Contenido/Inteligencia Emocional.pdf", "../Modulo 1/Videos/Inteligencia emocional Genially.mp3"] },
+		{ "numero": 3, "respuesta": "B", "peso": 5, "referencias": ["./Contenido/CÓMO CREAR CONTENIDOS para clases virtuales en 5 pasos.pdf", "../Modulo 1/Contenido.md – Material de Lectura/Creación de Contenidos Educativos"] },
+		{ "numero": 4, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 1/Contenido.md – Guía Didáctica", "./Contenido/GD1-Creación de contenido (Rdo 2).pdf"] },
+		{ "numero": 5, "respuesta": "B", "peso": 5, "referencias": ["./Contenido/Licencias Creative Commons_ Un Resumen del Artículo del BID.pdf"] },
+		{ "numero": 6, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 1/Contenido.md – Material de Lectura", "./Contenido/Competencias digitales...pdf", "./Contenido/Herramientas para crear actividades educativas interactivas.pdf"] },
+		{ "numero": 7, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 1/Videos/Modulo 1 - YouTube.mp4", "../Modulo 1/Contenido.md – Resumen/Objetivos"] },
+		{ "numero": 8, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 1/Contenido.md – Guía Didáctica y Objetivos → Alineación OA-Actividades-Evaluación"] },
+		{ "numero": 9, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 1/Contenido/Ejercicio Módulo 1.pdf", "../Modulo 1/Contenido/Texto para ejercicio.docx"] },
+		{ "numero": 10, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 1/Contenido.md – Objetivos/Accesibilidad general", "(ver subtítulos como buena práctica a nivel curso)"] },
+		{ "numero": 11, "respuesta": "B", "peso": 5, "referencias": ["./Contenido/Licencias Creative Commons_ Un Resumen del Artículo del BID.pdf", "infografías CC"] },
+		{ "numero": 12, "respuesta": "D", "peso": 5, "referencias": ["../Modulo 1/Contenido.md – Actividades/Criterios", "Guía didáctica"] },
+		{ "numero": 13, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 1/Contenido.md – Resumen/Objetivos", "sección de reflexión"] },
+		{ "numero": 14, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 1/Contenido.md – Imágenes/Referencias", "y ver M3 para profundizar"] },
+		{ "numero": 15, "respuesta": "C", "peso": 5, "referencias": ["../Modulo 1/Contenido.md – Actividades", "Guía didáctica"] },
+		{ "numero": 16, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 1/Contenido/ttsmaker-*.mp3", "../Modulo 1/Videos/Inteligencia emocional Genially.mp3"] },
+		{ "numero": 17, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 1/Contenido.md – Checklist/Calidad general", "buenas prácticas del curso"] },
+		{ "numero": 18, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 1/Contenido.md – Criterios/Objetivos cumplidos"] },
+		{ "numero": 19, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 1/Contenido.md – Accesibilidad", "Licencias CC para atribuciones"] },
+		{ "numero": 20, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 1/Videos/Modulo 1 - Competencias del ser - YouTube.mp4"] }
+	]
+}

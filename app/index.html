@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title id="page-title">Evaluaciones – Selector</title>
+    <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+    <header>
+        <div class="brand">
+            <span id="brand-title">Evaluaciones</span>
+            <small>Curso: <span id="course-name">Creación de Contenido Digital para Educación</span></small>
+        </div>
+        <label for="module"><strong>Evaluación:</strong></label>
+        <select id="module"></select>
+        <button id="load">Cargar</button>
+        <span id="status" aria-live="polite"></span>
+    </header>
+
+    <div id="app" class="loading">Selecciona un módulo y pulsa Cargar.</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="./validator.js"></script>
+    <script src="./autowire-validator.js"></script>
+    <script src="./main.js"></script>
+    <div id="ev-toolbar"></div>
+    <footer>
+        <div id="footer-course">Curso: Tester</div>
+        <div>© <span id="year"></span> <span id="footer-brand">Tester</span></div>
+    </footer>
+</body>
+
+</html>

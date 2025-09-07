@@ -1,0 +1,17 @@
+{
+  "title": "Evaluaciones – Selector",
+  "course": "Creación de Contenido Digital para Educación",
+  "description": "Evaluaciones para el curso de Creación de Contenido Digital para Educación",
+  "defaultModule": 1,
+  "durationMinutes": null,
+  "brandName": "Politécnico Superior",
+  "footer-course": "Curso: Creación de Contenido Digital para Educación",
+  "footer-brand": "Politécnico Superior",
+  "evaluations": [
+  { "module": 1, "label": "Módulo 1", "mdUrl": "../test/Evaluacion_Modulo_1.md", "ansUrl": "../data/Respuestas_Modulo_1.json", "multiselect": [16,17,18,19,20] },
+  { "module": 2, "label": "Módulo 2", "mdUrl": "../test/Evaluacion_Modulo_2.md", "ansUrl": "../data/Respuestas_Modulo_2.json", "multiselect": [16,17,18,19,20] },
+  { "module": 3, "label": "Módulo 3", "mdUrl": "../test/Evaluacion_Modulo_3.md", "ansUrl": "../data/Respuestas_Modulo_3.json", "multiselect": [16,17,18,19,20] },
+  { "module": 4, "label": "Módulo 4", "mdUrl": "../test/Evaluacion_Modulo_4.md", "ansUrl": "../data/Respuestas_Modulo_4.json", "multiselect": [16,17,18,19,20] },
+  { "module": 5, "label": "Módulo 5", "mdUrl": "../test/Evaluacion_Modulo_5.md", "ansUrl": "../data/Respuestas_Modulo_5.json", "multiselect": [16,17,18,19,20] }
+  ]
+}

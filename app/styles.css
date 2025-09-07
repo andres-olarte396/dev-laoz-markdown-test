@@ -1,0 +1,14 @@
+:root { color-scheme: light dark; }
+body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.5; padding: 24px; margin: 0 auto; max-width: 1000px; }
+header { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; position: sticky; top: 0; background: inherit; padding: 12px 0; border-bottom: 1px solid #eee; z-index: 10; }
+header .brand { margin-right: auto; display: flex; align-items: baseline; gap: 8px; font-weight: 600; }
+header .brand small { color: #666; font-weight: 400; font-size: 0.95rem; }
+#module { padding: 6px 10px; font-size: 1rem; }
+#load { padding: 8px 14px; font-size: 1rem; cursor: pointer; }
+#app { margin-top: 16px; }
+.loading { color: #666; }
+h1, h2, h3 { margin-top: 1.2em; }
+ul { list-style: none; padding-left: 0; }
+li { margin: 4px 0; }
+#ev-toolbar { padding: 12px 0; border-top: 1px solid #eee; margin-top: 24px; }
+footer { margin-top: 32px; padding: 16px 0; border-top: 1px solid #eee; color: #666; font-size: 0.95rem; }

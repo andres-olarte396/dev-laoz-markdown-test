@@ -1,0 +1,27 @@
+{
+  "modulo": 4,
+  "archivo_evaluacion": "./Evaluacion_Modulo_4.md",
+  "fecha_generacion": "2025-08-31",
+  "preguntas": [
+    { "numero": 1, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Objetivos de aprendizaje", "Guía metodológica"] },
+    { "numero": 2, "respuesta": "A", "peso": 5, "referencias": ["./Contenido/Metodología y Pautas para Video Didáctico.pdf", "../Modulo 4/Contenido.md – Metodología"] },
+    { "numero": 3, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Guion/Storyboard", "Planificación de tomas"] },
+    { "numero": 4, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Hablar en cámara: secciones + apoyos"] },
+    { "numero": 5, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Sonido: ambiente y micrófono"] },
+    { "numero": 6, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Herramientas y selección según objetivos"] },
+    { "numero": 7, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Accesibilidad: subtítulos/contraste"] },
+    { "numero": 8, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Estructura: introducción, desarrollo y cierre"] },
+    { "numero": 9, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Actividad evaluativa con guía"] },
+    { "numero": 10, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Evaluación: rúbricas"] },
+    { "numero": 11, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Lenguaje audiovisual: planos"] },
+    { "numero": 12, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Exportación: 1080p/bitrate moderado"] },
+    { "numero": 13, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Ritmo y edición"] },
+    { "numero": 14, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Derechos y atribución"] },
+    { "numero": 15, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Herramientas: Canva/Clipchamp"] },
+    { "numero": 16, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Hablar a cámara: mirada/modulación"] },
+    { "numero": 17, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Metodologías y pautas didácticas"] },
+    { "numero": 18, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Storyboard con planos/segmentos"] },
+    { "numero": 19, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Evaluación con objetivos"] },
+    { "numero": 20, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 4/Contenido.md – Audio: nivel, ruido"] }
+  ]
+}

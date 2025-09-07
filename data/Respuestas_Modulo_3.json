@@ -1,0 +1,27 @@
+{
+  "modulo": 3,
+  "archivo_evaluacion": "./Evaluacion_Modulo_3.md",
+  "fecha_generacion": "2025-08-31",
+  "preguntas": [
+    { "numero": 1, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Principios de diseño", "./Contenido/GUIA DEL ESTUDIANTE.png", "../Modulo 3/Videos/Modulo 3 - YouTube.mp4"] },
+    { "numero": 2, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Metodología/Proceso: objetivo y audiencia"] },
+    { "numero": 3, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Proceso de diseño: boceto/wireframe"] },
+    { "numero": 4, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Jerarquía visual y tipográfica"] },
+    { "numero": 5, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Guías complementarias", "./Contenido/GUIA DEL ESTUDIANTE.png"] },
+    { "numero": 6, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Lenguaje visual e iconografía"] },
+    { "numero": 7, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Paleta y contraste"] },
+    { "numero": 8, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Iconos y pictogramas"] },
+    { "numero": 9, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Accesibilidad; Publicación con texto alternativo"] },
+    { "numero": 10, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Evaluación y mejora; Retroalimentación"] },
+    { "numero": 11, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Estructura: encabezado/título"] },
+    { "numero": 12, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Visualización de datos"] },
+    { "numero": 13, "respuesta": "B", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Errores frecuentes: saturación"] },
+    { "numero": 14, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Material de apoyo: guía/documento"] },
+    { "numero": 15, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Cierre y llamados a la acción"] },
+    { "numero": 16, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Exportación: resolución y optimización"] },
+    { "numero": 17, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Consistencia de estilo"] },
+    { "numero": 18, "respuesta": "A", "peso": 5, "referencias": ["./Contenido/GUIA DEL ESTUDIANTE.png", "../Modulo 3/Contenido.md – Ruta y expectativas"] },
+    { "numero": 19, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Actividades prácticas guiadas"] },
+    { "numero": 20, "respuesta": "A", "peso": 5, "referencias": ["../Modulo 3/Contenido.md – Licencias y pertinencia"] }
+  ]
+}
