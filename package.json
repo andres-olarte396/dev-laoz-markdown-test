@@ -1,0 +1,29 @@
+{
+  "name": "dev-laoz-markdown-test",
+  "version": "1.0.0",
+  "description": "Aplicación web estática para visualizar evaluaciones por módulo de un curso (Creación de Contenido Digital para Educación). Carga un archivo Markdown y muestra preguntas / rúbricas; usa datos JSON con respuestas y referencias.",
+  "main": "index.js",
+  "directories": {
+    "starts": "src",
+    "test": "test"
+  },
+  "scripts": {
+    "start": "live-server --port=8080 --open=./src/index.html --watch --no-browser",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "evaluaciones",
+    "rúbricas",
+    "json",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "andres.olarte396@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2",
+    "marked": "^16.2.1"
+  }
+}

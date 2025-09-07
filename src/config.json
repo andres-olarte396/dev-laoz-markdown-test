@@ -6,7 +6,7 @@
   "durationMinutes": null,
   "brandName": "Politécnico Superior",
   "footer-course": "Curso: Creación de Contenido Digital para Educación",
-  "footer-brand": "Politécnico Superior",
+  "footer-brand": "@ 2024 Virtual academy",
   "evaluations": [
   { "module": 1, "label": "Módulo 1", "mdUrl": "../test/Evaluacion_Modulo_1.md", "ansUrl": "../data/Respuestas_Modulo_1.json", "multiselect": [16,17,18,19,20] },
   { "module": 2, "label": "Módulo 2", "mdUrl": "../test/Evaluacion_Modulo_2.md", "ansUrl": "../data/Respuestas_Modulo_2.json", "multiselect": [16,17,18,19,20] },
