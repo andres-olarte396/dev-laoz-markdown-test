@@ -1,10 +1,10 @@
 {
   "title": "Evaluaciones – Selector",
   "course": "Creación de Contenido Digital para Educación",
-  "description": "Evaluaciones para el curso de Creación de Contenido Digital para Educación",
+  "description": "Aplicación para la evaluación de conocimientos adquiridos en el curso.",
   "defaultModule": 1,
   "durationMinutes": null,
-  "brandName": "Politécnico Superior",
+  "brandName": "Virtual academy",
   "footer-course": "Curso: Creación de Contenido Digital para Educación",
   "footer-brand": "@ 2024 Virtual academy",
   "evaluations": [

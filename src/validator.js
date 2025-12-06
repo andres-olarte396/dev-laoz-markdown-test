@@ -107,9 +107,18 @@ function renderResults(root, results) {
 		const fb = root.querySelector(`[data-feedback="${r.numero}"]`);
 		if (fb) {
 			if (!r.correct) {
-				const refs = r.referencias?.length ? r.referencias.map(x => `• ${x}`).join('\n') : 'Revisa los materiales del módulo.';
+				   const refs = r.referencias?.length
+					   ? r.referencias.map(x => {
+						   // Si parece una ruta de archivo, mostrar como enlace Markdown
+						   if (typeof x === 'string' && (x.startsWith('./') || x.startsWith('../'))) {
+							   const url = encodeURI(x.replace(/ /g, '%20'));
+							   return `• <a href="${url}">${x}</a>`;
+						   }
+						   return `• ${x}`;
+					   }).join('\n')
+					   : 'Revisa los materiales del módulo.';
 				const correctText = Array.isArray(r.correctAnswer) ? r.correctAnswer.join(', ') : r.correctAnswer;
-				fb.textContent = `Respuesta correcta: ${correctText}. Referencias:\n${refs}`;
+				fb.innerHTML = `Respuesta correcta: ${correctText}. Referencias:\n${refs}`;
 				fb.classList.add('ev-feedback-visible');
 			} else {
 				fb.textContent = '';
