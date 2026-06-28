@@ -1,6 +1,6 @@
 # Respuestas Módulo 1
 
-- [x] Pregunta 1: Respuesta B (Peso: 5)
+- [x] Pregunta 1. Respuesta B (Peso: 5)
   - Referencias:
   - [Material de Lectura → Competencias Digitales](../Modulo%201/Contenido.md)
   - [Competencias digitales para docentes - por qué son tan importantes.pdf](./Contenido/competencias%20digitales%20para%20docentes%20-%20por%20qu%C3%A9%20son%20tan%20importantes.pdf)
@@ -50,7 +50,7 @@
   - [Contenido.md – Objetivos/Accesibilidad general](../Modulo%201/Contenido.md)
   - (ver subtítulos como buena práctica a nivel curso)
 
-- [x] Pregunta 11: Respuesta B (Peso: 5)
+- [x] Pregunta 11. Respuesta B (Peso: 5)
   - Referencias:
   - [Licencias Creative Commons_ Un Resumen del Artículo del BID.pdf](./Contenido/Licencias%20Creative%20Commons_%20Un%20Resumen%20del%20Art%C3%ADculo%20del%20BID.pdf)
   - infografías CC
